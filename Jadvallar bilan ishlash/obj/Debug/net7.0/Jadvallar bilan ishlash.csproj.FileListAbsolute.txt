@@ -1,0 +1,14 @@
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\bin\Debug\net7.0\Jadvallar bilan ishlash.exe
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\bin\Debug\net7.0\Jadvallar bilan ishlash.deps.json
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\bin\Debug\net7.0\Jadvallar bilan ishlash.runtimeconfig.json
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\bin\Debug\net7.0\Jadvallar bilan ishlash.dll
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\bin\Debug\net7.0\Jadvallar bilan ishlash.pdb
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\Jadvallar bilan ishlash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\Jadvallar bilan ishlash.AssemblyInfoInputs.cache
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\Jadvallar bilan ishlash.AssemblyInfo.cs
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\Jadvallar bilan ishlash.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\Jadvallar bilan ishlash.dll
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\refint\Jadvallar bilan ishlash.dll
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\Jadvallar bilan ishlash.pdb
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\Jadvallar bilan ishlash.genruntimeconfig.cache
+C:\Users\Konstantinopol\source\repos\Jadvallar bilan ishlash\Jadvallar bilan ishlash\obj\Debug\net7.0\ref\Jadvallar bilan ishlash.dll
